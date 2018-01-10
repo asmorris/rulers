@@ -1,8 +1,6 @@
 # Rulers
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rulers`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+A small gem for playing around with this sort of functionality. A Rails-y framework to test and hone some skills!
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Use this for a rails flavoured framework, but with much less of the overhead!
 
 ## Development
 
