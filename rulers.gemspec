@@ -36,4 +36,5 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency "rack" # Don't really care about version number at this juncture, because it will never go live!
   spec.add_runtime_dependency "erubis"
+  spec.add_runtime_dependency "multi_json"
 end
